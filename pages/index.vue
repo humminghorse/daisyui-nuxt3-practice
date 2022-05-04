@@ -1,5 +1,6 @@
 <template>
-  <div class="bg-white">
+  <!-- 参考: https://tailwindcss.jp/docs/container#app -->
+  <div class="container mx-auto pl-4 pr-4 bg-white">
     <TheHeader />
     <div class="tabs tabs-boxed w-full">
       <a class="tab w-1/4 tab-active">コーディネート</a>
