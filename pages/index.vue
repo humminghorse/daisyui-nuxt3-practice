@@ -11,7 +11,7 @@
     </div>
     <div class="border-b-2">
       <h1 class="mt-4 text-2xl">コーディネート一覧</h1>
-      <p class="mt-2 text-right">211件</p>
+      <p class="mt-2 text-right">5件</p>
     </div>
 
     <!-- body -->
@@ -155,7 +155,7 @@
         </div>
       </div>
       <div class="content flex flex-wrap mx-4 my-4 w-2/3">
-        <div class="card w-1/3 bg-base-100 h-auto shadow-xl">
+        <div class="card w-1/3 bg-base-100 h-auto mt-2 shadow-xl">
           <figure class="px-2 pt-2">
             <img
               src="~/assets/image/miru-red-collar.jpg"
@@ -164,14 +164,27 @@
             />
           </figure>
           <div class="card-body items-center text-center">
-            <h2 class="card-title">みる</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-            <div class="card-actions">
-              <button class="btn btn-primary">Detail</button>
+            <!-- <h2 class="card-title -mt-6">みる <span class="-m-2 text-sm">ちゃん</span></h2> -->
+            <h3 class="text-sm -ml-24 -mt-4">着用中のアイテム</h3>
+            <div class="flex items-center">
+              <img
+                src="~/assets/image/catlog-red.jpg"
+                alt="Miru"
+                class="rounded-xl h-12"
+              />
+              <p class="text-sm ml-4">Catlog<br />(カラー: Red)</p>
+            </div>
+            <div class="card-actions mt-2">
+              <button class="btn btn-primary w-full">
+                アイテムの<br />詳細を見る
+              </button>
+              <button class="btn btn-primary w-full">
+                この子の<br />他のコーディネートを見る
+              </button>
             </div>
           </div>
         </div>
-        <div class="card w-1/3 bg-base-100 h-auto shadow-xl">
+        <div class="card w-1/3 bg-base-100 h-auto mt-2 shadow-xl">
           <figure class="px-2 pt-2">
             <img
               src="~/assets/image/miru-red-collar.jpg"
@@ -180,14 +193,27 @@
             />
           </figure>
           <div class="card-body items-center text-center">
-            <h2 class="card-title">みる</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-            <div class="card-actions">
-              <button class="btn btn-primary">Detail</button>
+            <!-- <h2 class="card-title -mt-6">みる <span class="-m-2 text-sm">ちゃん</span></h2> -->
+            <h3 class="text-sm -ml-24 -mt-4">着用中のアイテム</h3>
+            <div class="flex items-center">
+              <img
+                src="~/assets/image/catlog-red.jpg"
+                alt="Miru"
+                class="rounded-xl h-12"
+              />
+              <p class="text-sm ml-4">Catlog<br />(カラー: Red)</p>
+            </div>
+            <div class="card-actions mt-2">
+              <button class="btn btn-primary w-full">
+                アイテムの<br />詳細を見る
+              </button>
+              <button class="btn btn-primary w-full">
+                この子の<br />他のコーディネートを見る
+              </button>
             </div>
           </div>
         </div>
-        <div class="card w-1/3 bg-base-100  h-auto shadow-xl">
+        <div class="card w-1/3 bg-base-100 h-auto mt-2 shadow-xl">
           <figure class="px-2 pt-2">
             <img
               src="~/assets/image/miru-red-collar.jpg"
@@ -196,14 +222,27 @@
             />
           </figure>
           <div class="card-body items-center text-center">
-            <h2 class="card-title">みる</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-            <div class="card-actions">
-              <button class="btn btn-primary">Detail</button>
+            <!-- <h2 class="card-title -mt-6">みる <span class="-m-2 text-sm">ちゃん</span></h2> -->
+            <h3 class="text-sm -ml-24 -mt-4">着用中のアイテム</h3>
+            <div class="flex items-center">
+              <img
+                src="~/assets/image/catlog-red.jpg"
+                alt="Miru"
+                class="rounded-xl h-12"
+              />
+              <p class="text-sm ml-4">Catlog<br />(カラー: Red)</p>
+            </div>
+            <div class="card-actions mt-2">
+              <button class="btn btn-primary w-full">
+                アイテムの<br />詳細を見る
+              </button>
+              <button class="btn btn-primary w-full">
+                この子の<br />他のコーディネートを見る
+              </button>
             </div>
           </div>
         </div>
-        <div class="card w-1/3 bg-base-100 h-auto shadow-xl">
+        <div class="card w-1/3 bg-base-100 h-auto mt-2 shadow-xl">
           <figure class="px-2 pt-2">
             <img
               src="~/assets/image/miru-red-collar.jpg"
@@ -212,14 +251,27 @@
             />
           </figure>
           <div class="card-body items-center text-center">
-            <h2 class="card-title">みる</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-            <div class="card-actions">
-              <button class="btn btn-primary">Detail</button>
+            <!-- <h2 class="card-title -mt-6">みる <span class="-m-2 text-sm">ちゃん</span></h2> -->
+            <h3 class="text-sm -ml-24 -mt-4">着用中のアイテム</h3>
+            <div class="flex items-center">
+              <img
+                src="~/assets/image/catlog-red.jpg"
+                alt="Miru"
+                class="rounded-xl h-12"
+              />
+              <p class="text-sm ml-4">Catlog<br />(カラー: Red)</p>
+            </div>
+            <div class="card-actions mt-2">
+              <button class="btn btn-primary w-full">
+                アイテムの<br />詳細を見る
+              </button>
+              <button class="btn btn-primary w-full">
+                この子の<br />他のコーディネートを見る
+              </button>
             </div>
           </div>
         </div>
-        <div class="card w-1/3 bg-base-100 h-auto shadow-xl">
+        <div class="card w-1/3 bg-base-100 h-auto mt-2 shadow-xl">
           <figure class="px-2 pt-2">
             <img
               src="~/assets/image/miru-red-collar.jpg"
@@ -228,26 +280,23 @@
             />
           </figure>
           <div class="card-body items-center text-center">
-            <h2 class="card-title">みる</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-            <div class="card-actions">
-              <button class="btn btn-primary">Detail</button>
+            <!-- <h2 class="card-title -mt-6">みる <span class="-m-2 text-sm">ちゃん</span></h2> -->
+            <h3 class="text-sm -ml-24 -mt-4">着用中のアイテム</h3>
+            <div class="flex items-center">
+              <img
+                src="~/assets/image/catlog-red.jpg"
+                alt="Miru"
+                class="rounded-xl h-12"
+              />
+              <p class="text-sm ml-4">Catlog<br />(カラー: Red)</p>
             </div>
-          </div>
-        </div>
-        <div class="card w-1/3 bg-base-100  h-auto shadow-xl">
-          <figure class="px-2 pt-2">
-            <img
-              src="~/assets/image/miru-red-collar.jpg"
-              alt="Miru"
-              class="rounded-xl"
-            />
-          </figure>
-          <div class="card-body items-center text-center">
-            <h2 class="card-title">みる</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-            <div class="card-actions">
-              <button class="btn btn-primary">Detail</button>
+            <div class="card-actions mt-2">
+              <button class="btn btn-primary w-full">
+                アイテムの<br />詳細を見る
+              </button>
+              <button class="btn btn-primary w-full">
+                この子の<br />他のコーディネートを見る
+              </button>
             </div>
           </div>
         </div>
