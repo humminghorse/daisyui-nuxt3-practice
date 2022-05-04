@@ -154,12 +154,13 @@
           </label>
         </div>
       </div>
-      <div class="content flex-auto mx-4 my-4 h-128 w-1/2">
+      <div class="content flex-auto mx-4 my-4 w-2/3">
+        <!-- ~/assets/image/sample.png -->
         <div class="card w-2/5 bg-base-100 shadow-xl">
           <figure class="px-2 pt-2">
             <img
-              src="/img/miru-red-collar.jpg"
-              alt="Shoes"
+              src="/image/miru-red-collar.jpg"
+              alt="Miru"
               class="rounded-xl"
             />
           </figure>
@@ -167,7 +168,23 @@
             <h2 class="card-title">みる</h2>
             <p>If a dog chews shoes whose shoes does he choose?</p>
             <div class="card-actions">
-              <button class="btn btn-primary">Buy Now</button>
+              <button class="btn btn-primary">Detail</button>
+            </div>
+          </div>
+        </div>
+        <div class="card w-2/5 bg-base-100 shadow-xl">
+          <figure class="px-2 pt-2">
+            <img
+              src="~/assets/image/miru-red-collar.jpg"
+              alt="Miru"
+              class="rounded-xl"
+            />
+          </figure>
+          <div class="card-body items-center text-center">
+            <h2 class="card-title">みる</h2>
+            <p>If a dog chews shoes whose shoes does he choose?</p>
+            <div class="card-actions">
+              <button class="btn btn-primary">Detail</button>
             </div>
           </div>
         </div>
