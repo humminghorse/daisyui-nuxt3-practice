@@ -16,7 +16,7 @@
 
     <!-- body -->
     <div class="flex bg-neutral">
-      <div class="control-panel bg-white flex-auto m-4 p-2 w-1/4">
+      <div class="control-panel bg-white flex-auto m-4 p-2 w-1/12">
         <h3 class="text-lg mt-2">ペットの種類</h3>
         <div class="form-control">
           <label class="label cursor-pointer justify-start">
@@ -154,9 +154,26 @@
           </label>
         </div>
       </div>
-      <div class="content flex-auto mx-4 my-4 h-128 w-1/2"></div>
-    </div>
+      <div class="content flex-auto mx-4 my-4 h-128 w-1/2">
+        <div class="card w-2/5 bg-base-100 shadow-xl">
+          <figure class="px-2 pt-2">
+            <img
+              src="https://api.lorem.space/image/shoes?w=400&h=225"
+              alt="Shoes"
+              class="rounded-xl"
+            />
+          </figure>
+          <div class="card-body items-center text-center">
+            <h2 class="card-title">みる</h2>
+            <p>If a dog chews shoes whose shoes does he choose?</p>
+            <div class="card-actions">
+              <button class="btn btn-primary">Buy Now</button>
+            </div>
+          </div>
+        </div>
 
+      </div>
+    </div>
     <TheFooter />
   </div>
 </template>
