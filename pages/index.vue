@@ -158,7 +158,7 @@
         <div class="card w-2/5 bg-base-100 shadow-xl">
           <figure class="px-2 pt-2">
             <img
-              src="https://api.lorem.space/image/shoes?w=400&h=225"
+              src="/img/miru-red-collar.jpg"
               alt="Shoes"
               class="rounded-xl"
             />
@@ -171,7 +171,6 @@
             </div>
           </div>
         </div>
-
       </div>
     </div>
     <TheFooter />
