@@ -1,8 +1,8 @@
 <template>
-  <div class="card w-1/3 bg-base-100 h-auto mt-2 shadow-xl h-64">
+  <div class="card w-1/3 bg-base-100 h-auto mt-2 shadow-xl">
     <figure class="px-2 pt-2">
       <img
-        src="@/assets/image/miru-red-collar.jpg"
+        src="@/assets/image/miru-red-collar.jpeg"
         alt="Miru"
         class="rounded-xl"
       />
@@ -12,7 +12,7 @@
       <h3 class="text-sm -ml-24 -mt-4">着用中のアイテム</h3>
       <div class="flex items-center">
         <img
-          src="~/assets/image/catlog-red.jpg"
+          src="@/assets/image/catlog-red.jpg"
           alt="Catlog Red"
           class="rounded-xl h-12"
         />

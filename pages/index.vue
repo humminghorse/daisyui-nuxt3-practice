@@ -155,7 +155,7 @@
         </div>
       </div>
       <div class="content flex flex-wrap mx-4 my-4 w-2/3">
-        <template v-for="n of 8" :key="n">
+        <template v-for="n of 1" :key="n">
           <CoordinationListItem />
         </template>
       </div>
