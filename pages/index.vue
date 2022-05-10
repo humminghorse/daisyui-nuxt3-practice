@@ -40,7 +40,12 @@
       </div>
       <div class="content flex flex-wrap mx-4 my-4 w-2/3">
         <template v-for="n of 5" :key="n">
-          <CoordinationListItem />
+          <CoordinationListItem
+            coordinationImgSrc="@/assets/image/miru-red-collar.jpeg"
+            itemImgSrc="@/assets/image/catlog-red.jpg"
+            itemName="Catlog"
+            itemColor="Red"
+          />
         </template>
       </div>
     </div>
